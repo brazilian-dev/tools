@@ -7,6 +7,7 @@ Useful tools for development
 
 ## Summary:
 
+* [CSS](#css)
 * [Performance](#performance)
 * [Online editor](#online-editor)
 * [Icon font generator](#icon-font-generator)
@@ -15,6 +16,10 @@ Useful tools for development
 * [Image optimization](#image-optimization)
 
 ## Tools
+
+### CSS
+* [Name that color](http://chir.ag/projects/name-that-color/#6195ED)
+* [Colorzilla - gradient editor](http://www.colorzilla.com/gradient-editor/)
 
 ### Performance
 * [GTMetrix](http://gtmetrix.com/)

@@ -13,7 +13,7 @@ Useful tools for development
 * [Git hosting](#git-hosting)
 * [Image optimization](#image-optimization)
 
-----
+## Tools
 
 ### Performance
 * [GTMetrix](http://gtmetrix.com/)
@@ -47,10 +47,6 @@ Useful tools for development
 - Commit your changes: `git commit -m 'Add some feature'`
 - Push to the branch: `git push origin my-new-feature`
 - Submit a pull request
-
-## Log
-
-Check [Releases](https://github.com/brazilian-dev/tools/releases) for detailed changelog.
 
 ## License
 

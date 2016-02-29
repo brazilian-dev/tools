@@ -44,6 +44,8 @@ Useful tools for development
 
 ### Image optimization
 * [Kraken](https://kraken.io/)
+* [Base 64 encoder](https://www.base64-image.de/)
+* [SVGO's Missing GUI](https://jakearchibald.github.io/svgomg/)
 
 
 ## Contributing

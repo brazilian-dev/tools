@@ -47,6 +47,10 @@ Useful tools for development
 * [Base 64 encoder](https://www.base64-image.de/)
 * [SVGO's Missing GUI](https://jakearchibald.github.io/svgomg/)
 
+### API's
+* [99 API's](http://99apis.com/home)
+* [{API}Search](http://apis.io/)
+
 
 ## Contributing
 

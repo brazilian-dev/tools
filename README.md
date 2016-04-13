@@ -15,6 +15,7 @@ Useful tools for development
 * [Git hosting](#git-hosting)
 * [Image optimization](#image-optimization)
 * [API's](#apis)
+* [Daltonism](#daltonism)
 
 ## Tools
 
@@ -52,6 +53,16 @@ Useful tools for development
 * [99 API's](http://99apis.com/home)
 * [{API}Search](http://apis.io/)
 
+### Daltonism
+* [Vischeck](http://vischeck.com/)
+* [Sim Daltonism](https://michelf.ca/projects/sim-daltonism)
+* [Color Enhancer](https://chrome.google.com/webstore/detail/color-enhancer/ipkjmjaledkapilfdigkgfmpekpfnkih?hl=pt-BR)
+* [Colorblind Web Page Filter](http://www.color-blindness.com/2006/04/10/colorblind-web-page-filter)
+* [Colorblinding](https://chrome.google.com/webstore/detail/colorblinding/dgbgleaofjainknadoffbjkclicbbgaa)
+* [Daltonizer](https://play.google.com/store/apps/details?id=fr.nghs.android.cbs&hl=en)
+* [Color Contrast Check](http://www.snook.ca/technical/colour_contrast/colour.html#fg=33FF33,bg=333333)
+* [Colour Blindness Simulator](http://www.colorblindnesssimulator.com/)
+* [Color Oracle](http://www.colororacle.org/)
 
 ## Contributing
 

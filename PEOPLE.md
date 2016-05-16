@@ -31,13 +31,13 @@ People to follow
 
 ## Design
 
-||||
-| ------------- | -----| -----|
-| ![Aral Balkan](source/img/people/aral-balkan.jpg) | ![Denise Jacobs](source/img/people/denise-jacobs.jpg) | ![Chris Spooner](source/img/people/chris-spooner.jpg) |
-| Aral Balkan 										| Denise Jacobs 										| Chris Spooner |
-| [Website](https://ind.ie/) 						| [Website](http://denisejacobs.com/) 					| [Website](http://blog.spoongraphics.co.uk/) |
-| [Twitter](https://twitter.com/aral) 				| [Twitter](https://twitter.com/denisejacobs) 			| [Twitter](https://twitter.com/chrisspooner) |
-||||
+||||||
+| ------------- | -----| -----| -----| -----|
+| ![Aral Balkan](source/img/people/aral-balkan.jpg) | ![Denise Jacobs](source/img/people/denise-jacobs.jpg) | ![Chris Spooner](source/img/people/chris-spooner.jpg) | ![Stephanie Malone](source/img/people/stephanie-malone.jpg) | ![Jason Santa Maria](source/img/people/jason-santa-maria.jpg) |
+| Aral Balkan | Denise Jacobs | Chris Spooner | Stephanie Malone | Jason Santa Maria |
+| [Website](https://ind.ie/) | [Website](http://denisejacobs.com/) | [Website](http://blog.spoongraphics.co.uk/) | [Website](http://www.smalonedesign.com/) | [Website](http://jasonsantamaria.com/) |
+| [Twitter](https://twitter.com/aral) | [Twitter](https://twitter.com/denisejacobs) | [Twitter](https://twitter.com/chrisspooner) | [Twitter](https://twitter.com/smalonedesign) | [Twitter](https://twitter.com/jasonsantamaria) |
+||||||
 
 ## Development
 

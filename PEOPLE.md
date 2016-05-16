@@ -1,6 +1,6 @@
-# Twitter
+# People
 
-People to follow on Twitter
+People to follow
 
 ## Summary:
 
@@ -12,17 +12,21 @@ People to follow on Twitter
 ## Lists
 
 ## IT management
+
 * []()
 * []()
 
 ## UX / UI
+
 * []()
 * []()
 
 ## Design
+
 * []()
 * []()
 
 ## Development
-* []()
+
+* Addy Osmani - [Website](https://addyosmani.com/blog/) - [Twitter](https://twitter.com/addyosmani) - [Github](https://github.com/addyosmani)
 * []()

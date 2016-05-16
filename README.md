@@ -7,9 +7,9 @@ Utilities lists for web development
 
 ## Summary
 
-- [Tools](TOOLS.md)
-- [Twitter](TWITTER.md)
 - [Articles](ARTICLES.md)
+- [People](PEOPLE.md)
+- [Tools](TOOLS.md)
 
 ## Contributing
 

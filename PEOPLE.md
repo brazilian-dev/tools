@@ -13,8 +13,8 @@ People to follow
 
 ## IT management
 
-* ![](source/img/people/.jpg) - aaa - [Website]() - [Twitter]() - [Github]()
-* ![](source/img/people/.jpg) - aaa - [Website]() - [Twitter]() - [Github]()
+* ![David Allen](source/img/people/david-allen.jpg) - David Allen - [Website](http://gettingthingsdone.com/) - [Twitter](https://twitter.com/gtdguy)
+* ![Seth Godin](source/img/people/seth-godin.jpg) - Seth Godin - [Website](http://sethgodin.typepad.com/) - [Twitter](https://twitter.com/ThisIsSethsBlog)
 
 ## UX / UI
 

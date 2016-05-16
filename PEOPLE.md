@@ -18,7 +18,7 @@ People to follow
 
 ## UX / UI
 
-* ![Andy Budd]() - Andy Budd - [Website](http://www.andybudd.com/) - [Twitter](https://twitter.com/andybudd)
+* ![Andy Budd](source/img/people/andy-budd.jpg) - Andy Budd - [Website](http://www.andybudd.com/) - [Twitter](https://twitter.com/andybudd)
 * ![Aarron Walter](source/img/people/aarron-walter.jpg) - Aarron Walter - [Website](http://aarronwalter.com/) - [Twitter](https://twitter.com/aarron)
 
 ## Design

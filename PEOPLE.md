@@ -9,8 +9,6 @@ People to follow
 * [Design](#design)
 * [Development](#development)
 
-## Lists
-
 ## IT management
 
 |||

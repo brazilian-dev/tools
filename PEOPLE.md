@@ -13,18 +13,13 @@ People to follow
 
 ## IT management
 
-|||||
-| ------------- |:-------------:| -----| -----|
-| ![David Allen](source/img/people/david-allen.jpg) 
-| David Allen 
-| [Website](http://gettingthingsdone.com/) 
-| [Twitter](https://twitter.com/gtdguy) |
-
-| ![Seth Godin](source/img/people/seth-godin.jpg)   
-| Seth Godin  
-| [Website](http://sethgodin.typepad.com/) 
-| [Twitter](https://twitter.com/ThisIsSethsBlog) |
-|||||
+|||
+| ------------- | -----|
+| ![David Allen](source/img/people/david-allen.jpg) | ![Seth Godin](source/img/people/seth-godin.jpg) |
+| David Allen 										| Seth Godin |
+| [Website](http://gettingthingsdone.com/) 			| [Website](http://sethgodin.typepad.com/) |
+| [Twitter](https://twitter.com/gtdguy) 			| [Twitter](https://twitter.com/ThisIsSethsBlog) |
+|||
 
 ## UX / UI
 

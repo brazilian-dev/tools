@@ -28,5 +28,5 @@ People to follow
 
 ## Development
 
-* ![Addy Osmani]() - Addy Osmani - [Website](https://addyosmani.com/blog/) - [Twitter](https://twitter.com/addyosmani) - [Github](https://github.com/addyosmani)
-* ![Paul Irish]() - Paul Irish - [Website](http://www.paulirish.com/) - [Twitter](https://twitter.com/paul_irish) - [Github](https://github.com/paulirish)
+* ![Addy Osmani](source/img/people/addy-osmani.jpg) - Addy Osmani - [Website](https://addyosmani.com/blog/) - [Twitter](https://twitter.com/addyosmani) - [Github](https://github.com/addyosmani)
+* ![Paul Irish](source/img/people/paul-irish.jpg) - Paul Irish - [Website](http://www.paulirish.com/) - [Twitter](https://twitter.com/paul_irish) - [Github](https://github.com/paulirish)

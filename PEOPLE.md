@@ -5,7 +5,7 @@ People to follow
 ## Summary:
 
 * [IT management](#it-management)
-* [UX / UI](#ux-ui)
+* [UX / UI](#ux--ui)
 * [Design](#design)
 * [Development](#development)
 

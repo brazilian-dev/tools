@@ -21,13 +21,13 @@ People to follow
 
 ## UX / UI
 
-||||||
-| ------------- | -----| -----| -----| -----|
-| ![Andy Budd](source/img/people/andy-budd.jpg) | ![Aarron Walter](source/img/people/aarron-walter.jpg) | ![Robson Santos](source/img/people/robson-santos.jpg) | ![Júlia Ghisi](source/img/people/julia-ghisi.jpg) | ![Priscilla Albuquerque](source/img/people/priscilla-albuquerque.jpg) |
-| Andy Budd 									| Aarron Walter 										| Robson Santos 										| Júlia Ghisi | Priscilla Albuquerque |
-| [Website](http://www.andybudd.com/) 			| [Website](http://aarronwalter.com/) 					| [Website](http://interfaceando.com/) 					| [Website](http://catarinasdesign.com.br/) | [Website](http://catarinasdesign.com.br/) |
-| [Twitter](https://twitter.com/andybudd) 		| [Twitter](https://twitter.com/aarron) 				| [Twitter](https://twitter.com/interfaceando) 			| [Twitter](https://twitter.com/juliaghisi) | [Twitter](https://twitter.com/priscillaac) |
-||||||
+|||||||
+| ------------- | -----| -----| -----| -----| -----|
+| ![Andy Budd](source/img/people/andy-budd.jpg) | ![Aarron Walter](source/img/people/aarron-walter.jpg) | ![Robson Santos](source/img/people/robson-santos.jpg) | ![Júlia Ghisi](source/img/people/julia-ghisi.jpg) | ![Priscilla Albuquerque](source/img/people/priscilla-albuquerque.jpg) | ![Luis Felipe](source/img/people/luis-felipe.jpg) |
+| Andy Budd 									| Aarron Walter 										| Robson Santos 										| Júlia Ghisi | Priscilla Albuquerque | Luis Felipe |
+| [Website](http://www.andybudd.com/) 			| [Website](http://aarronwalter.com/) 					| [Website](http://interfaceando.com/) 					| [Website](http://catarinasdesign.com.br/) | [Website](http://catarinasdesign.com.br/) | [Website](http://www.uxacademy.com.br/) |
+| [Twitter](https://twitter.com/andybudd) 		| [Twitter](https://twitter.com/aarron) 				| [Twitter](https://twitter.com/interfaceando) 			| [Twitter](https://twitter.com/juliaghisi) | [Twitter](https://twitter.com/priscillaac) | [Twitter](https://twitter.com/luisfelipe_f) |
+|||||||
 
 ## Design
 

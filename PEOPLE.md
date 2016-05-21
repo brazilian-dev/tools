@@ -23,10 +23,10 @@ People to follow
 
 ||||
 | ------------- | -----| -----|
-| ![Andy Budd](source/img/people/andy-budd.jpg) | ![Aarron Walter](source/img/people/aarron-walter.jpg) | ![Robson Santos](source/img/people/robson-santos.jpg) |
-| Andy Budd 									| Aarron Walter 										| Robson Santos |
-| [Website](http://www.andybudd.com/) 			| [Website](http://aarronwalter.com/) 					| [Website](http://interfaceando.com/) |
-| [Twitter](https://twitter.com/andybudd) 		| [Twitter](https://twitter.com/aarron) 				| [Twitter](https://twitter.com/interfaceando) |
+| ![Andy Budd](source/img/people/andy-budd.jpg) | ![Aarron Walter](source/img/people/aarron-walter.jpg) | ![Robson Santos](source/img/people/robson-santos.jpg) | ![Júlia Ghisi](source/img/people/julia-ghisi.jpg) |
+| Andy Budd 									| Aarron Walter 										| Robson Santos 										| Júlia Ghisi |
+| [Website](http://www.andybudd.com/) 			| [Website](http://aarronwalter.com/) 					| [Website](http://interfaceando.com/) 					| [Website](http://catarinasdesign.com.br/) |
+| [Twitter](https://twitter.com/andybudd) 		| [Twitter](https://twitter.com/aarron) 				| [Twitter](https://twitter.com/interfaceando) 			| [Twitter](https://twitter.com/juliaghisi) |
 ||||
 
 ## Design

@@ -25,16 +25,16 @@ People to follow
 | ------------- | -----| -----| -----| -----| -----| -----|
 | ![Andy Budd](source/img/people/andy-budd.jpg) | ![Aarron Walter](source/img/people/aarron-walter.jpg) | ![Robson Santos](source/img/people/robson-santos.jpg) | ![Júlia Ghisi](source/img/people/julia-ghisi.jpg) | ![Priscilla Albuquerque](source/img/people/priscilla-albuquerque.jpg) | ![Luis Felipe](source/img/people/luis-felipe.jpg) | ![Glauber Laender](source/img/people/glauber-laender.jpg) |
 | Andy Budd | Aarron Walter | Robson Santos | Júlia Ghisi | Priscilla Albuquerque | Luis Felipe | Glauber Laender |
-| [Website](http://www.andybudd.com/) 			| [Website](http://aarronwalter.com/) 					| [Website](http://interfaceando.com/) 					| [Website](http://catarinasdesign.com.br/) | [Website](http://catarinasdesign.com.br/) | [Website](http://www.uxacademy.com.br/) | |
-| [Twitter](https://twitter.com/andybudd) 		| [Twitter](https://twitter.com/aarron) 				| [Twitter](https://twitter.com/interfaceando) 			| [Twitter](https://twitter.com/juliaghisi) | [Twitter](https://twitter.com/priscillaac) | [Twitter](https://twitter.com/luisfelipe_f) | [Twitter](https://twitter.com/GlauberLaender) |
+| [Website](http://www.andybudd.com/) | [Website](http://aarronwalter.com/) | [Website](http://interfaceando.com/) | [Website](http://catarinasdesign.com.br/) | [Website](http://catarinasdesign.com.br/) | [Website](http://www.uxacademy.com.br/) | |
+| [Twitter](https://twitter.com/andybudd) | [Twitter](https://twitter.com/aarron) | [Twitter](https://twitter.com/interfaceando) | [Twitter](https://twitter.com/juliaghisi) | [Twitter](https://twitter.com/priscillaac) | [Twitter](https://twitter.com/luisfelipe_f) | [Twitter](https://twitter.com/GlauberLaender) |
 ||||||||
 
 |||
 | ------------- | -----|
-| ![Fabricio Teixeira](source/img/people/fabricio-teixeira.jpg) | ![Seth Godin](source/img/people/seth-godin.jpg) |
-| Fabricio Teixeira										| Seth Godin |
-| [Website](http://fabricio.nu/) 			| [Website](http://sethgodin.typepad.com/) |
-| [Twitter](https://twitter.com/fabriciot) 			| [Twitter](https://twitter.com/ThisIsSethsBlog) |
+| ![Fabricio Teixeira](source/img/people/fabricio-teixeira.jpg) | ![Paula Macedo](source/img/people/paula-macedo.jpg) |
+| Fabricio Teixeira | Paula Macedo |
+| [Website](http://fabricio.nu/) | |
+| [Twitter](https://twitter.com/fabriciot) | [Twitter](https://twitter.com/paulinhah) |
 |||
 
 ## Design

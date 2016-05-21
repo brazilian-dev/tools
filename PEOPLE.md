@@ -29,6 +29,14 @@ People to follow
 | [Twitter](https://twitter.com/andybudd) 		| [Twitter](https://twitter.com/aarron) 				| [Twitter](https://twitter.com/interfaceando) 			| [Twitter](https://twitter.com/juliaghisi) | [Twitter](https://twitter.com/priscillaac) | [Twitter](https://twitter.com/luisfelipe_f) | [Twitter](https://twitter.com/GlauberLaender) |
 ||||||||
 
+|||
+| ------------- | -----|
+| ![Fabricio Teixeira](source/img/people/fabricio-teixeira.jpg) | ![Seth Godin](source/img/people/seth-godin.jpg) |
+| Fabricio Teixeira										| Seth Godin |
+| [Website](http://fabricio.nu/) 			| [Website](http://sethgodin.typepad.com/) |
+| [Twitter](https://twitter.com/fabriciot) 			| [Twitter](https://twitter.com/ThisIsSethsBlog) |
+|||
+
 ## Design
 
 ||||||

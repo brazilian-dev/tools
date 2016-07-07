@@ -10,6 +10,7 @@ Utilities lists for web development
 - [Articles](ARTICLES.md)
 - [People](PEOPLE.md)
 - [Tools](TOOLS.md)
+- [Talks](TALKS.md)
 
 ## Contributing
 

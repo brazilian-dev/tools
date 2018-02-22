@@ -3,7 +3,7 @@
 Utilities lists for web development
 
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
-[![issues](https://img.shields.io/github/issues/brazilian-dev/useful.svg?style=flat-square)](https://github.com/brazilian-dev/useful/issues)
+[![issues](https://img.shields.io/github/issues/descco-support/useful.svg?style=flat-square)](https://github.com/descco-support/useful/issues)
 
 ## Summary
 
